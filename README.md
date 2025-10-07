@@ -6,5 +6,4 @@
 - Any typo? don't worry. just click the 'edit' button to amend any mistakes..
 
 ## Live website👇
-
-https://learn-japanese.netlify.app/
+  https://gopaltechrel.github.io/Gopalsing-Learn-Japanese/
